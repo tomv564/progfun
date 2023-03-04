@@ -1,0 +1,6 @@
+[2017-05-07 13:14:21,489] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/tomv/Projects/tomv564/progfun/funsets
+[2017-05-07 13:14:21,489] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/tomv/Projects/tomv564/progfun/funsets
+[2017-05-07 13:14:21,504] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/tomv/.vscode/extensions/dragos.scala-lsp-0.1.4/coursier
+[2017-05-07 13:14:21,504] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/tomv/.vscode/extensions/dragos.scala-lsp-0.1.4/coursier
+[2017-05-07 13:14:24,068] INFO langserver.core.MessageReader - End of stream, terminating thread
+[2017-05-07 13:14:24,068] INFO langserver.core.MessageReader - End of stream, terminating thread
